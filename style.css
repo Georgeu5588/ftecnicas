@@ -1,0 +1,26 @@
+body {
+    background-image: url(How-to-Maintain-Student-Engagement-in-a-Virtual-Classroom.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    background: rgb(63,94,251);
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.tr1 {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.tr2 {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,181,1) 100%);
+}
+
+i {
+    background: rgb(118,118,241);
+    background: linear-gradient(90deg, rgba(118,118,241,1) 35%, rgba(0,212,255,1) 100%);
+}
